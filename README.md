@@ -13,6 +13,8 @@
 
 <div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCHOSHINOBU2&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <a href="https://github.com/KOCHOSHINOBU2/HARUKA-SAKURA">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KOCHOSHINOBU2&repo=HARUKA-SAKURA&theme=blueberry" />
 </a>
