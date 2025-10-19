@@ -16,7 +16,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KOCHOSHINOBU2&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
+<img src="https://i.postimg.cc/Kz6JbPn5/Airbrush-Image-Enhancer-1760837360082.jpg" width="400px" />
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=8A8A8A&center=true&vCenter=true&width=435&lines=Repositorio-Oficial+❒;©Made+in+Roxyz+✿;Perfio+Oficial+de+Lexa;𝐀𝐩𝐨𝐲𝐚+𝐝𝐚𝐧𝐝𝐨+𝐮𝐧𝐚+𝐞𝐬𝐭𝐫𝐞𝐥𝐥𝐢𝐭𝐚+⭐" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://i.postimg.cc/Kz6JbPn5/Airbrush-Image-Enhancer-1760837360082.jpg" width="400px" />
 </p>
 
 <a href="https://github.com/KOCHOSHINOBU2/HARUKA-SAKURA">
