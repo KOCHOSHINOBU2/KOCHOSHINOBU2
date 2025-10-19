@@ -13,8 +13,8 @@
 
 <div align="center">
 
-<a href="https://github.com/KOCHOSHINOBU2/HARUKA SAKURA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KOCHOSHINOBU2&repo=HARUKA SAKURA-V2&theme=merko" />
+<a href="https://github.com/KOCHOSHINOBU2/HARUKA-SAKURA">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KOCHOSHINOBU2&repo=HARUKA-SAKURA-V2&theme=merko" />
 </a>
 
 <a href="https://github.com/kobDanonino/AI-HOSHINO-V2">
