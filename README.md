@@ -14,15 +14,15 @@
 <div align="center">
 
 <a href="https://github.com/KOCHOSHINOBU2/HARUKA-SAKURA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KOCHOSHINOBU2&repo=HARUKA-SAKURA&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KOCHOSHINOBU2&repo=HARUKA-SAKURA&theme=blueberry" />
 </a>
 
 <a href="https://github.com/kobDanonino/AI-HOSHINO-V2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=AI-HOSHINO-V2&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=AI-HOSHINO-V2&theme=blueberry" />
 </a>
 
 <a href="https://github.com/kobDanonino/SHINOBU-KOCHO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=SHINOBU-KOCHO&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kobDanonino&repo=SHINOBU-KOCHO&theme=blueberry" />
 </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2693ff&height=120&section=footer"/>
